@@ -1,0 +1,15 @@
+C:\Users\ximba\source\repos\RockPaperScissorsGame\bin\Debug\net6.0\RockPaperScissorsGame.exe
+C:\Users\ximba\source\repos\RockPaperScissorsGame\bin\Debug\net6.0\RockPaperScissorsGame.deps.json
+C:\Users\ximba\source\repos\RockPaperScissorsGame\bin\Debug\net6.0\RockPaperScissorsGame.runtimeconfig.json
+C:\Users\ximba\source\repos\RockPaperScissorsGame\bin\Debug\net6.0\RockPaperScissorsGame.dll
+C:\Users\ximba\source\repos\RockPaperScissorsGame\bin\Debug\net6.0\RockPaperScissorsGame.pdb
+C:\Users\ximba\source\repos\RockPaperScissorsGame\obj\Debug\net6.0\RockPaperScissorsGame.csproj.AssemblyReference.cache
+C:\Users\ximba\source\repos\RockPaperScissorsGame\obj\Debug\net6.0\RockPaperScissorsGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ximba\source\repos\RockPaperScissorsGame\obj\Debug\net6.0\RockPaperScissorsGame.AssemblyInfoInputs.cache
+C:\Users\ximba\source\repos\RockPaperScissorsGame\obj\Debug\net6.0\RockPaperScissorsGame.AssemblyInfo.cs
+C:\Users\ximba\source\repos\RockPaperScissorsGame\obj\Debug\net6.0\RockPaperScissorsGame.csproj.CoreCompileInputs.cache
+C:\Users\ximba\source\repos\RockPaperScissorsGame\obj\Debug\net6.0\RockPaperScissorsGame.dll
+C:\Users\ximba\source\repos\RockPaperScissorsGame\obj\Debug\net6.0\refint\RockPaperScissorsGame.dll
+C:\Users\ximba\source\repos\RockPaperScissorsGame\obj\Debug\net6.0\RockPaperScissorsGame.pdb
+C:\Users\ximba\source\repos\RockPaperScissorsGame\obj\Debug\net6.0\RockPaperScissorsGame.genruntimeconfig.cache
+C:\Users\ximba\source\repos\RockPaperScissorsGame\obj\Debug\net6.0\ref\RockPaperScissorsGame.dll
